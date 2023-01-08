@@ -1,24 +1,24 @@
 [
     {
-        "Title": "Record",
-        "Synopsis": "Testando app yt",
+        "Title": "Record TV",
+        "Synopsis": "Record TV",
         "Thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png",
-        "Url": "https://youtu.be/-GjsqKHLSYo",
+        "Url": "https://m3u9.ml/a2/hls1/record.m3u8?mu3zAQc9HC3GbwJq=g8qfp9DmEfQkP5TLA8rX5w&3U1G7qaTxrPbalZnEx=1673212507",
         "IsFeatured": true
     },
     {
-        "Title": "The Legion",
-        "Synopsis": "Mickey Rourke and Bai Ling star in this epic tale of courage and heroism in a time of war. During the invasion of Parthia, two Roman legions have been brought to a standstill in the snowy mountains of Armenia, leaving them slowly dying in the freezing cold. The rest of the Roman army is a two weeks’ march away, and the region swarms with Parthian patrols. Their only hope for survival is Noreno, a half-Roman soldier, who is entrusted with the impossible mission of crossing the deadly terrain to seek help for his men and turn the tide of the battle.",
-        "Thumbnail": "https://devcrux.com/wp-content/uploads/139941.jpg",
-        "Url": "https://movietrailers.apple.com/movies/paramount_classics/the-legion/the-legion-trailer-1_h480p.mov",
+        "Title": "Globo SP",
+        "Synopsis": "Globo SP",
+        "Thumbnail": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",
+        "Url": "https://m3u9.ml/a2/hls1/bobosp-bk.m3u8?mu3zAQc9HC3GbwJq=JyuNF_jmTPhKISTZdT1BqA&3U1G7qaTxrPbalZnEx=1673212804",
         "IsFeatured": false
     },
     {
-        "Title": "Walkaway Joe",
-        "Synopsis": "WALKAWAY JOE is the story of an unlikely friendship between a young boy searching for his father in pool halls across the country, and a wandering loner hiding from his past. In each other they experience the power of a second chance, and a shot at redemption.",
-        "Thumbnail": "https://devcrux.com/wp-content/uploads/119390.jpg",
-        "Url": "https://movietrailers.apple.com/movies/independent/walkaway-joe/walkaway-joe-trailer-1_h480p.mov",
-        "IsFeatured": false
+        "Title": "Globo SP 2",
+        "Synopsis": "Globo SP 2",
+        "Thumbnail": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",
+        "Url": "https://sinalpublico.com/player3/mega5.php?canal=bobosp&canals=https://m3u9.ml/a2/hls1/bobosp-bk.m3u8?mu3zAQc9HC3GbwJq=JyuNF_jmTPhKISTZdT1BqA&3U1G7qaTxrPbalZnEx=1673212804",
+        "IsFeatured": true
     },
     {
         "Title": "Hope Gap",
