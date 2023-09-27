@@ -1,54 +1,52 @@
-[
   {"Id" : 1,
-    "Url" : [ "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" ],
+    "Url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     "Name" : "Big Buck Bunny"
   },
   { "Id" : 2,
-    "Url" : [ "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" ],
+    "Url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
     "Name" : "Elephant Dream"
   },
   { "Id" : 3,
-    "Url" : [ "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4" ],
+    "Url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
     "Name" : "For Bigger Blazes"
   },
   { "Id" : 4,
-    "Url" : [ "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4" ],
+    "Url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
     "Name" : "For Bigger Escape"
   },
   { "Id" : 5,
-    "Url" : [ "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4" ],
+    "Url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
     "Name" : "For Bigger Fun"
   },
   { "Id" : 6,
-    "Url" : [ "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4" ],
+    "Url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
     "Name" : "For Bigger Joyrides"
   },
   { "Id" : 7,
-    "Url" : [ "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4" ],
+    "Url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
     "Name" : "For Bigger Meltdowns"
   },
   { "Id" : 8,
-    "Url" : [ "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4" ],
+    "Url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
     "Name" : "Sintel"
   },
   { "Id" : 9,
-    "Url" : [ "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4" ],
+    "Url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
     "Name" : "Subaru Outback On Street And Dirt"
   },
   { "Id" : 10, 
-    "Url" : [ "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4" ],
+    "Url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
     "Name" : "Tears of Steel"
   },
   { "Id" : 11,
-    "Url" : [ "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4" ],
+    "Url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
     "Name" : "Volkswagen GTI Review"
   },
   { "Id" : 12,
-    "Url" : [ "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4" ],
+    "Url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
     "Name" : "We Are Going On Bullrun"
   },
   { "Id" : 13,
-    "Url" : [ "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4" ],
+    "Url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
     "Name" : "What care can you get for a grand?"
   }
-]
