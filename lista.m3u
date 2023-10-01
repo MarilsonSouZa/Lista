@@ -15,7 +15,7 @@ https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelportuguese_all/
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 group-title="Legislative" tvg-logo="https://i.imgur.com/BtkX8kg.png",Assembleia Legislativa do Estado de Mato Grosso (720p)
 https://streaming.al.mt.gov.br/test/index.m3u8
-#EXTINF:-1 group-title="Undefined",Band Minas (720p) [Not 24/7]
+#EXTINF:-1 group-title="General",Band Minas (720p) [Not 24/7]
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/ifGQGJx.png",Bem TV (720p)
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
