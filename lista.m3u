@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/sz9gTTr.png",RecordTV
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Band_Marca.svg/2560px-Band_Marca.svg.png" group-title="General",Band Minas 720p
-http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/EZJWQ3i.png",SBT Cuiabá (720p)
-https://5ad482a77183d.streamlock.net/sbtsbtmt.com/sbtsbtmt.com/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/IkZfa4j.png",SBT Interior (720p)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/EZJWQ3i.png",SBT Cuiabá (720p)
+https://5ad482a77183d.streamlock.net/sbtsbtmt.com/sbtsbtmt.com/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/yFRqXIx.png",SBT Rede Massa (720p) [Not 24/7]
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/WLSauIE.png",SBT Rio (720p) [Not 24/7] [Geo-blocked]
@@ -15,6 +11,10 @@ https://ythls.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
 https://ythls.onrender.com/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/bATJ4zB.jpg",SBT VTV (720p) [Not 24/7]
 https://ythls.onrender.com/channel/UC40TUSUx490U5uR1lZt3Ajg.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Band_Marca.svg/2560px-Band_Marca.svg.png" group-title="General",Band Minas 720p
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/sz9gTTr.png",RecordTV
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/dWA9y2J.png",1001 Noites (720p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/KgetM8j.png",Adesso TV (720p)
