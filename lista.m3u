@@ -27,6 +27,48 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 group-title="Comedy" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png",Comedy Central Pluto TV (720p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-logo="http://a5.vc/dje" group-title="Canais | 24 Horas",[24H] Eu A Patroa e As Crianas - S01
+http://b5.vc:80/DouglasPrado/753728/47663.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/dje" group-title="Canais | 24 Horas",[24H] Eu A Patroa e As Crianas - S02
+http://b5.vc:80/DouglasPrado/753728/47664.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/dje" group-title="Canais | 24 Horas",[24H] Eu A Patroa e As Crianas - S03
+http://b5.vc:80/DouglasPrado/753728/47665.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/dje" group-title="Canais | 24 Horas",[24H] Eu A Patroa e As Crianas - S04
+http://b5.vc:80/DouglasPrado/753728/47666.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/dje" group-title="Canais | 24 Horas",[24H] Eu A Patroa e As Crianas - S05
+http://b5.vc:80/DouglasPrado/753728/47667.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/NNK" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga Androids
+http://b5.vc:80/DouglasPrado/753728/47642.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/NNK" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga de Cell
+http://b5.vc:80/DouglasPrado/753728/47638.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/NNK" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga de Freeza
+http://b5.vc:80/DouglasPrado/753728/47639.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/NNK" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga de Garlic Jr
+http://b5.vc:80/DouglasPrado/753728/47640.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/NNK" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga de Majin Boo
+http://b5.vc:80/DouglasPrado/753728/47641.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/NNK" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga Sayajins
+http://b5.vc:80/DouglasPrado/753728/47643.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/NNK" group-title="Canais | 24 Horas",[24H] Dragon Ball Z - Saga Torneio de Outro Mundo
+http://b5.vc:80/DouglasPrado/753728/47644.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/lnS" group-title="Canais | 24 Horas",[24H] Os Super Patos
+http://b5.vc:80/DouglasPrado/753728/47883.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/2sz" group-title="Canais | 24 Horas",[24H] Todo Mundo Odeia O Chris - S01
+http://b5.vc:80/DouglasPrado/753728/48062.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/2sz" group-title="Canais | 24 Horas",[24H] Todo Mundo Odeia O Chris - S02
+http://b5.vc:80/DouglasPrado/753728/48063.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/2sz" group-title="Canais | 24 Horas",[24H] Todo Mundo Odeia O Chris - S03
+http://b5.vc:80/DouglasPrado/753728/48064.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/2sz" group-title="Canais | 24 Horas",[24H] Todo Mundo Odeia O Chris - S04
+http://b5.vc:80/DouglasPrado/753728/48065.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Ft3" group-title="Canais | 24 Horas",[24H] Zatch Bell
+http://b5.vc:80/DouglasPrado/753728/48099.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/LMv" group-title="Canais | 24 Horas",[24H] Largados e Pelados A Tribo - S01
+http://b5.vc:80/DouglasPrado/753728/47756.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/LMv" group-title="Canais | 24 Horas",[24H] Largados e Pelados A Tribo - S02
+http://b5.vc:80/DouglasPrado/753728/47757.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/LMv" group-title="Canais | 24 Horas",[24H] Largados e Pelados A Tribo - S03
+http://b5.vc:80/DouglasPrado/753728/47758.ts
 #EXTINF:-1 group-title="Comedy" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png",Comedy Central South Park (720p) [Not 24/7]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 group-title="Comedy" tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png",FailArmy (720p)
