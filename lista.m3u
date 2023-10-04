@@ -15,28 +15,8 @@ http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png",A vida moderna de Rocko (720p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-
-
-#EXTINF:0 group-title="Todo Mundo Odeia o Cris", episodio 01
-https://video.wixstatic.com/video/c494af_c1e1bfdf756f4215afd0f37cedfe8534/720p/mp4/file.mp4
-#EXTINF:0 group-title="Todo Mundo Odeia o Cris", episodio 02
-https://video.wixstatic.com/video/c494af_443639466b9840c79a3f0b7ea90e14df/720p/mp4/file.mp4
-#EXTINF:0 group-title="Todo Mundo Odeia o Cris", ep 03 temp 1
-https://video.wixstatic.com/video/c494af_4f0a0739e49240a08a0baacc357e7b57/720p/mp4/file.mp4
-#EXTINF:0 group-title="Todo Mundo Odeia o Cris", ep 04 temp 1
-https://video.wixstatic.com/video/c494af_2cbd1e894c7b4bdd8181ef52698d0e6c/720p/mp4/file.mp4
-#EXTINF:0 group-title="Todo Mundo Odeia o Cris", ep 05 temp 1
-https://video.wixstatic.com/video/c494af_f8583d20ff0f4bfdaf4d7fd8bddfa01a/720p/mp4/file.mp4
-#EXTINF:0 group-title="Todo Mundo Odeia o Cris", ep 06 temp 1
-https://video.wixstatic.com/video/c494af_6be4efa1c47b43158582a466e8bc1a45/720p/mp4/file.mp4
-#EXTINF:0 group-title="Todo Mundo Odeia o Cris", ep 07 temp 1
-https://video.wixstatic.com/video/c494af_fe1be1bcf71849b8a8ae4db1162cc07a/720p/mp4/file.mp4
-#EXTINF:0 group-title="Todo Mundo Odeia o Cris", ep 08 temp 1
-https://video.wixstatic.com/video/c494af_ee422a95e4be427282f7d0c177c38cd6/720p/mp4/file.mp4
-#EXTINF:0 group-title="Todo Mundo Odeia o Cris", ep 09 temp 1
-https://video.wixstatic.com/video/c494af_a8c9eb7ec790466d955a1f7dd38e402b/720p/mp4/file.mp4
-#EXTINF:0 group-title="Todo Mundo Odeia o Cris", ep 10 temp 1
-https://video.wixstatic.com/video/c494af_0eb663bd7b8f4555a31404a2f86055fd/720p/mp4/file.mp4
+#EXTINF:0 group-title="Instagran", Carlinhos
+https://www.instagram.com/carlinhos/live
 #EXTINF:-1 group-title="Outdoor" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png",AgroBrasil TV (720p) [Not 24/7]
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 group-title="Animation" tvg-logo="https://i.imgur.com/rmAm6UE.png",Anime TV (360p) [Not 24/7]
