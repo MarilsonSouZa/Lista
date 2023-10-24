@@ -37,3 +37,15 @@ http://bgp.cdnr1.xyz:80/danilocareca/Careca09/139116
 http://bgp.cdnr1.xyz:80/danilocareca/Careca09/83309
 #EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://i.imgur.com/vNlHLKc.png",Record News SD
 http://bgp.cdnr1.xyz:80/danilocareca/Careca09/83612
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://loopstatic.net/sbt.png",SBT SP FHD
+http://bgp.cdnr1.xyz:80/danilocareca/Careca09/140653
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://loopstatic.net/sbt.png",SBT SP HD
+http://bgp.cdnr1.xyz:80/danilocareca/Careca09/83476
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://loopstatic.net/sbt.png",SBT SP SD
+http://bgp.cdnr1.xyz:80/danilocareca/Careca09/169523
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://loopstatic.net/sbt.png",SBT RJ FHD
+http://bgp.cdnr1.xyz:80/danilocareca/Careca09/83517
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://loopstatic.net/sbt.png",SBT RJ HD
+http://bgp.cdnr1.xyz:80/danilocareca/Careca09/83513
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://loopstatic.net/sbt.png",SBT RJ SD
+http://bgp.cdnr1.xyz:80/danilocareca/Careca09/165438
