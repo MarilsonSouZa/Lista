@@ -1,15 +1,17 @@
 #EXTM3U
 #EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Band_Marca.svg/2560px-Band_Marca.svg.png", Band
 http://mn.appserv19.xyz:2095/Xplus-1-JvszkWYa2p/KqDPwlxXIX/481
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/EZJWQ3i.png",SBT Cuiabá (720p)
-https://5ad482a77183d.streamlock.net/sbtsbtmt.com/sbtsbtmt.com/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/WLSauIE.png",SBT Rio (720p) [Not 24/7] [Geo-blocked]
-https://ythls.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/it5aFKM.png",SBT RS (720p) [Not 24/7] [Geo-blocked]
-https://ythls.onrender.com/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/bATJ4zB.jpg",SBT VTV (720p) [Not 24/7]
-https://ythls.onrender.com/channel/UC40TUSUx490U5uR1lZt3Ajg.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Band_Marca.svg/2560px-Band_Marca.svg.png", Band Minas 720p
-http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/sz9gTTr.png",RecordTV
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://i.imgur.com/xE53HT2.png",GLOBO SP FHD
+http://joao-1-us.mainbkonline.shop:80/Janete3292/Matrix3292/715
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://i.imgur.com/xE53HT2.png",GLOBO SP FHD H265
+http://joao-1-us.mainbkonline.shop:80/Janete3292/Matrix3292/714
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://i.imgur.com/xE53HT2.png",GLOBO SP HD
+http://joao-1-us.mainbkonline.shop:80/Janete3292/Matrix3292/741
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://i.imgur.com/xE53HT2.png",GLOBO SP SD
+http://joao-1-us.mainbkonline.shop:80/Janete3292/Matrix3292/492
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://i.imgur.com/xE53HT2.png",GLOBO RJ FHD
+http://joao-1-us.mainbkonline.shop:80/Janete3292/Matrix3292/362
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://i.imgur.com/xE53HT2.png",GLOBO RJ HD
+http://joao-1-us.mainbkonline.shop:80/Janete3292/Matrix3292/335
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://i.imgur.com/xE53HT2.png",GLOBO RJ SD
+http://joao-1-us.mainbkonline.shop:80/Janete3292/Matrix3292/491
